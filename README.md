@@ -4,9 +4,9 @@ http://json2csharp.com/
 
 # JSON-Serialize
 
-Install package 
+Install below package 
 
-1)Install-Package Newtonsoft.Json
+1) Install-Package Newtonsoft.Json
 
 2) Conver Person object to c#
 
